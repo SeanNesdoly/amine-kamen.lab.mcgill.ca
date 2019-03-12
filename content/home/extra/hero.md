@@ -1,10 +1,10 @@
 +++
 # Hero widget.
 widget = "hero"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Viral Vectors and Vaccines Bioprocessing Group"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
