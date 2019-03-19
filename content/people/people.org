@@ -1,0 +1,18 @@
++++
+# People widget.
+widget = "people"
+active = true
+weight = 10
+
+# List user groups to display.
+# Edit each user's `user_groups` to add them to one or more of these groups.
+user_groups = ["Postdoctoral Fellows",
+               "PhD Candidates",
+               "Masters Students",
+               "Staff",
+               "Visiting Members",
+               "Alumni"]
++++
+
+* Lab Members
+(click on a profile for more information)
