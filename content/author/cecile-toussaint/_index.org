@@ -5,8 +5,12 @@ name = "Cécile Toussaint"
 # Username (this should match the folder name)
 authors = ["cecile-toussaint"]
 
-# Lab position
+# Lab position or title
 role = ""
+
+# Organizational group(s) that the user belongs to. Refer to the 'user_groups'
+# variable located at /content/people/people.org for valid options.
+user_groups = ["Postdoctoral Fellows"]
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
@@ -27,11 +31,6 @@ interests = []
   icon = "linkedin"
   icon_pack = "fab"
   link = "www.linkedin.com/in/CT-1b025737"
-
-# Organizational group(s) that the user belongs to. Refer to the People widget
-# 'user_groups' variable located at /content/people/people.org for valid
-# options.
-user_groups = ["Postdoctoral Fellows"]
 +++
 
 *** Skills
