@@ -78,7 +78,7 @@
     <div class="row">
 
       {{ with $person.interests }}
-      <div class="col-md-5">
+      <div class="col-md-auto">
         <h3>{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
           {{ range . }}
@@ -89,7 +89,7 @@
       {{ end }}
 
       {{ with $person.education }}
-      <div class="col-md-20">
+      <div class="col-md-auto">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
