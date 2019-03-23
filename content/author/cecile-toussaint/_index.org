@@ -6,7 +6,7 @@ name = "Cécile Toussaint"
 authors = ["cecile-toussaint"]
 
 # Lab position or title
-role = ""
+role = "Postdoctoral Fellow"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.

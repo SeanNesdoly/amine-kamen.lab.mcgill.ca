@@ -14,8 +14,7 @@ role = """Canada Research Chair in Bioprocessing of Viral Vaccines &
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/"},
-                  { name = "amine DOT kamen AT mcgill DOT ca"} ]
+organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = """My research interests include cell culture engineering, bioprocess
@@ -34,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -76,7 +75,7 @@ user_groups = ["Researchers", "Visitors"]
   icon = "canadian-maple-leaf"
   icon_pack = "fab"
   link = "http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3344"
-  
+
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
@@ -84,24 +83,31 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-icon = "cv"
-icon_pack = "ai"
-link = "files/AmineKamenCV.pdf"
+# [[social]]
+# icon = "cv"
+# icon_pack = "ai"
+# link = "files/CV.pdf"
 
 +++
 
-I joined the department of Bioengineering in 2013 after a long and successful
-career as the Principal Research Officer of the bioprocessing and manufacturing
-vaccine program at the Biotechnology Research Institute, part of the National
-Research Council of Canada, where I mainly focused on improving existing and
-developing new platforms for the production of recombinant products of
-therapeutic interest for both animal and human consumption. I am also dedicated
-to training and supervisng human qualified personnel at all academic levels with
-a particular interest in encouraging a close interaction with the industrial
-sector.
+Amine Kamen is Professor of Bioengineering at McGill University, and Canada
+Research Chair tier-1 in Bioprocessing of Viral Vaccines. He was recently
+nominated Researcher Emeritus of the National Research Council of Canada. He was
+until early 2014, head of the Process Development section of the Human Health
+Therapeutics Portfolio and Lead of the Bioprocessing and Manufacturing of the
+Vaccine Program at the National Research Council of Canada. He received a Ph.D.
+in Chemical Engineering from École des Mines de Paris and a Ph.D. in Biochemical
+Engineering from École Polytechnique de Montréal. Before joining the National
+Research Council in 1991, he was a professor of mass-transport phenomena and
+reactor design. His current research activities focus on uncovering mechanisms
+associated with cell production of viral vectors and viral vaccines; cell and
+metabolic engineering; process control and monitoring; and process analytical
+technologies of high yield productions of viral vectors for gene delivery and
+vaccination. He published over one hundred and thirty papers in refereed
+international journals and acts as consultant for a number of national and
+international private and public organizations.
 
-I currently teaching the following courses: 
+He is currently teaching the following courses: 
 
 - [BIEN 590 Cell Culture Engineering](https://www.mcgill.ca/study/2018-2019/courses/bien-590)
 - [BIEN 340: Transport Processes in Biological Systems](https://www.mcgill.ca/study/2018-2019/courses/bien-340)

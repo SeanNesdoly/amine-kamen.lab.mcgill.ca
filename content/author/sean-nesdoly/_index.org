@@ -1,0 +1,48 @@
++++
+# Display name
+name = "Sean Nesdoly"
+
+# Username (this should match the folder name)
+authors = ["sean-nesdoly"]
+
+# Lab position or title
+role = "MEng Student"
+
+# Organizational group(s) that the user belongs to. Refer to the 'user_groups'
+# variable located at /content/people/people.org for valid options.
+user_groups = ["Master's Students"]
+
+# List any organizations in the format [ {name="org1", url="url1"}, ... ]
+organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
+
+bio = "Bioinformatics of human-influenza genetic and functional interactions."
+
+# List any interests in the format ["interest1", "interest2"]
+interests = []
+
+# Education 
+[[education.courses]]
+course = "BCS in Biomedical Computing"
+institution = "Queen's University (Kingston, ON, Canada)"
+year = "2014-2018"
+  
+# Social/Academic Networking
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/SeanNesdoly"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/seannesdoly/"
++++
+
+*** Skills
+- Next-generation sequencing analysis
+- High-performance computing
+- Java, UNIX, C++, R, Python, MATLAB, Git, Jira, Vi/m
+
+*** Work experience
+- 2017-2018: Research assistant at Queen's Computational Genomics Lab (Kingston, ON, Canada)
+- 2014-2016: Summer co-op student developer at Enersight (Calgary, AB, Canada)
