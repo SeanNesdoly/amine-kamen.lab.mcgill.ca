@@ -1,14 +1,13 @@
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
-    <!-- Brand and toggle get grouped for better mobile display -->
-      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-        {{- if .Site.Params.logo -}}
-        <img src="{{ printf "/img/%s" .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}">
-        {{- else -}}
-        {{- .Site.Title -}}
-        {{- end -}}
-      </a>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+            <img src="{{ printf "/img/%s" .Site.Params.logo_navbar | relURL }}" style="float: left; margin-right: 10px">
+            <div style="float: left; line-height: 1"> Viral Vectors and Vaccines<br>Bioprocessing Group </div>
+        </a>
+      </div>
       {{ if or .Site.Menus.main .IsTranslated }}
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
