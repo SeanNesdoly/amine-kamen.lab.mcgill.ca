@@ -8,11 +8,11 @@ weight = 10
 # Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Postdoctoral Fellows",
                "PhD Candidates",
-               "Masters Students",
+               "Master's Students",
                "Staff",
                "Visiting Members",
                "Alumni"]
 +++
 
-* Lab Members
-(click on a profile for more information)
+* *Lab Members*
+/(click on a profile for more information)/
