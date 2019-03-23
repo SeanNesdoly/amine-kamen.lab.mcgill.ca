@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Professor Amine Kamen"
+name = "Prof. Amine Kamen"
 
 # Username (this should match the folder name)
 authors = ["amine-kamen"]
@@ -33,7 +33,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = []
+user_groups = ["Principal Investigator"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -109,5 +109,5 @@ international private and public organizations.
 
 He is currently teaching the following courses: 
 
-- [BIEN 590 Cell Culture Engineering](https://www.mcgill.ca/study/2018-2019/courses/bien-590)
-- [BIEN 340: Transport Processes in Biological Systems](https://www.mcgill.ca/study/2018-2019/courses/bien-340)
+- [[https://www.mcgill.ca/study/2018-2019/courses/bien-590][BIEN 590 Cell Culture Engineering]]
+- [[https://www.mcgill.ca/study/2018-2019/courses/bien-340][BIEN 340: Transport Processes in Biological Systems]]
