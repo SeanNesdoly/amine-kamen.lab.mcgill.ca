@@ -22,7 +22,7 @@ interests = []
 
 # Education 
 [[education.courses]]
-course = "BCS in Biomedical Computing"
+course = "BComp in Biomedical Computing"
 institution = "Queen's University (Kingston, ON, Canada)"
 year = "2014-2018"
   
