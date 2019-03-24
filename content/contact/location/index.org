@@ -1,0 +1,11 @@
++++
+widget = "custom"
+active = true 
+
+title = "Location"
+subtitle = "McGill Bioengineering Department at UQAM"
+
+weight = 20
++++
+
+{{< gallery album="uqam-images" >}}

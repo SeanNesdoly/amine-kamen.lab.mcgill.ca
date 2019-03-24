@@ -7,7 +7,7 @@ title = "Contact"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 0
+weight = 10
 
 # Automatically link email and phone?
 autolink = true
@@ -20,8 +20,6 @@ email_form = 0
 +++
 
 {{< figure library="1" src="contact-collage.jpg" >}}
-
-{{< gallery album="uqam" >}}
 
 Our research group is part of the recently created Department of Bioengineering,
 the newest department to join McGill University’s renowned Faculty of
