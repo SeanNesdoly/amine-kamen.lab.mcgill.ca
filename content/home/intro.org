@@ -1,7 +1,7 @@
 +++
 widget = "blank"  # Do not modify this line!
 active = true # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out `title` and `subtitle`. 
 # title = "Viral Vectors and Vaccines Bioprocessing Group"
@@ -18,11 +18,11 @@ weight = 15  # Order that this section will appear.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#A2D1E1"
+  # color = "#A2D1E1"
   
   # Background gradient.
-  # gradient_start = "Blue"
-  # gradient_end = "Cyan"
+  gradient_start = "#A2D1E1"
+  gradient_end = "#A2D1C1"
   
   # Background image.
   # image = ""  # Name of image in 'static/img/'
@@ -59,4 +59,3 @@ meet the highest standards for manufacturing biologics, using cutting-edge
 biotechnologies on a scale large enough for clinical evaluation.
   </div>
 </div>
-
