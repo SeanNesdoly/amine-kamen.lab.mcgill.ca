@@ -28,7 +28,9 @@ email = ""
 interests = [
   "Cell Culture Engineering",
   "Bioprocess Optimization and Scale-up",
-  "Manufacturing of antiviral vaccines and viral vectors for gene delivery"
+  "Process Analytical Technologies and Process Control",
+  "Viral Vaccines Manufacturing",
+  "Viral Vectors and Nanoparticules for Gene Delivery and Vaccination"
 ]
 
 # Organizational groups that you belong to (for People widget)
