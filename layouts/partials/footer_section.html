@@ -5,21 +5,31 @@
   </p>
   {{ end }}
 
+
   <p class="powered-by">
     {{ with .Site.Copyright }}{{ . | markdownify}} &middot; {{ end }}
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+  </p>
 
     {{ if ne .Type "docs" }}
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
+
+        <a class="fab fa-twitter" href="https://twitter.com/search?q=%40BioengMcGill&src=typd" target="_blank" style="margin: 0.5rem"></a>
+        <a class="fab fa-facebook" href="https://www.facebook.com/bioengmcgill/" target="_blank" style="margin: 0.5rem"></a>
+        <a class="fab fa-youtube" href="https://www.youtube.com/channel/UCWFfSIvl8ns1CxlUqgcditw" target="_blank" style="margin: 0.5rem"></a>
+
+        <a href="#" id="back_to_top" style="margin: 0.5rem">
+            <span class="button_icon">
+                <i class="fas fa-chevron-up"></i>
+            </span>
+        </a>
     </span>
     {{ end }}
-  </p>
+
+    <span class="float-left">
+        <img src="/img/mcgill-logo.png" width="200px">
+    </span>
 </footer>
