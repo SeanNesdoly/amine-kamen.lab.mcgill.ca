@@ -1,0 +1,31 @@
++++
+# Contact widget.
+widget = "contact"  # Do not modify this line!
+active = true
+
+title = "Contact"
+subtitle = ""
+
+# Order that this section will appear in.
+weight = 0
+
+# Automatically link email and phone?
+autolink = true
+
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form = 0
++++
+
+{{< figure library="1" src="contact-collage.jpg" >}}
+
+{{< gallery album="uqam" >}}
+
+Our research group is part of the recently created Department of Bioengineering,
+the newest department to join McGill University’s renowned Faculty of
+Engineering. Together with our colleagues, we are actively involved in various
+areas of Bioengineering, including: computational biology, materials and
+mechanics, biomolecular and cellular engineering, and biomedical, diagnostic,
+and high throughput screening.

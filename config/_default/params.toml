@@ -54,9 +54,10 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
 #phone = "+1-514-398-5775"
-address = """Pavillon des Sciences Biologiques <br>
-             UQAM 141 Avenue du President-Kennedy, Room SB-5585 <br>
-             Montreal, QC H2X 1Y4"""
+address = """McGill Bioengineering Department at UQAM <br>
+             Pavillon des Sciences Biologiques, rm SB-5585 <br>
+             141 Avenue du Président-Kennedy <br>
+             Montréal, QC, H2X 1Y4"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -67,10 +68,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "BioEngMcGill", link = "https://twitter.com/search?q=%40BioengMcGill&src=typd"},
-  {icon = "facebook", icon_pack = "fab", name = "BioEngMcGill", link = "https://www.facebook.com/bioengmcgill/"}
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"}
+]
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
