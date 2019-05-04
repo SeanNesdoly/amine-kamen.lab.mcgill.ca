@@ -109,7 +109,7 @@ vaccination. He published over one hundred and thirty papers in refereed
 international journals and acts as consultant for a number of national and
 international private and public organizations.
 
-He is currently teaching the following courses: 
+He is currently teaching the following courses:
 
-- [[https://www.mcgill.ca/study/2018-2019/courses/bien-590][BIEN 590 Cell Culture Engineering]]
+- [[https://www.mcgill.ca/study/2018-2019/courses/bien-590][BIEN 590: Cell Culture Engineering]]
 - [[https://www.mcgill.ca/study/2018-2019/courses/bien-340][BIEN 340: Transport Processes in Biological Systems]]
