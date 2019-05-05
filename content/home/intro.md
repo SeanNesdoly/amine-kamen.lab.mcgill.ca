@@ -2,8 +2,9 @@
 widget = "blank"  # Do not modify this line!
 active = true # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
+headless = false
 
-# Note: a full width section format can be enabled by commenting out `title` and `subtitle`. 
+# Note: a full width section format can be enabled by commenting out `title` and `subtitle`.
 # title = "Viral Vectors and Vaccines Bioprocessing Group"
 # subtitle = ""
 
@@ -19,11 +20,11 @@ weight = 10  # Order that this section will appear.
 
   # Background color.
   # color = "#A2D1E1"
-  
+
   # Background gradient.
   gradient_start = "#A2D1E1"
   gradient_end = "#A2D1C1"
-  
+
   # Background image.
   # image = ""  # Name of image in 'static/img/'
   # image_darken = 0 # Range 0-1: 0=transparent, 1=opaque
@@ -34,7 +35,7 @@ weight = 10  # Order that this section will appear.
 [advanced]
  # Custom CSS
  css_style = "padding-top: 20px; padding-bottom: 20px;"
- 
+
  # Custom CSS class
  css_class = ""
 +++

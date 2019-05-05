@@ -2,6 +2,7 @@
 widget = "blank"
 active = true
 weight = 20
+headless = false
 
 # title = "Viral Vectors and Vaccines Bioprocessing Group"
 # subtitle = ""
@@ -12,7 +13,7 @@ weight = 20
 
 [design.background]
   # Background image as stored in 'static/img/'.
-  # image = "team-picture.jpg"  
+  # image = "team-picture.jpg"
 
 [advanced]
  # Custom CSS
