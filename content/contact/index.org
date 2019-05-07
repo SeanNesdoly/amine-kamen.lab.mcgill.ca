@@ -1,4 +1,4 @@
 +++
 title = "Contact"
-widgets = true
+type = "widget_page"
 +++
