@@ -15,17 +15,17 @@ user_groups = ["Master's Students"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = "Bioinformatics of human-influenza genetic and functional interactions."
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
 course = "BComp in Biomedical Computing"
 institution = "Queen's University (Kingston, ON, Canada)"
 year = "2014-2018"
-  
+
 # Social/Academic Networking
 [[social]]
   icon = "github"
@@ -37,6 +37,9 @@ year = "2014-2018"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/seannesdoly/"
 +++
+
+*** Project
+Bioinformatics of human-influenza genetic and functional interactions.
 
 *** Skills
 - Next-generation sequencing analysis

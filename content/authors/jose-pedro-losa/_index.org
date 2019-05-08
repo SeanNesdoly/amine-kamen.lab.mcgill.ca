@@ -15,24 +15,27 @@ user_groups = ["Visiting Members"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "University of Porto", url = "https://www.up.pt/" } ]
 
-bio = """Evaluation of VERO cell culture and VSV-based vaccine production in a new
-bioreactor unit"""
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
   course = "Master in Bioengineering"
   institution = "University of Porto (Portugal)"
   year = "current"
-  
+
 # Social/Academic Networking
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/jos%C3%A9-pedro-losa-57279b155/"
 +++
+
+*** Project
+Evaluation of VERO cell culture and VSV-based vaccine production in a new
+bioreactor unit.
 
 *** Skills
 - Cultivation of mammalian cells for viral vaccine production (yellow fever)

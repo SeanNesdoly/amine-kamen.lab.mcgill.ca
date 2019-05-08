@@ -15,13 +15,12 @@ user_groups = ["PhD Candidates"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = """Characterization and quantification of extracellular vesicles during the
-production of lentiviral vectors"""
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
   course = "Master in Biological Engineering"
   year = 2008
@@ -33,6 +32,10 @@ interests = []
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/aline-do-minh-46852a5"
 +++
+
+*** Project
+Characterization and quantification of extracellular vesicles during the
+production of lentiviral vectors.
 
 *** Skills:
 - Biomanufacturing process development for vaccines and biologics: CHO cell
@@ -50,8 +53,7 @@ interests = []
   Portfolio at National Research Council Canada (Montreal, Canada)
 - 2013-2015: Project Manager and Tech Transfer Specialist for Mylan, formerly
   Confab, at Genipro (Montreal, Canada)
-- 2009-2012: Bioprocess Engineer in the Downstream Processing department at
-  Janssen Vaccines (Leiden, Netherlands)
+- 2009-2012: Bioprocess Engineer in the Downstream Processing department at Janssen Vaccines (Leiden, Netherlands)
 - 2008: Co-op in Process Research and Development, Late Stage Cell Culture at
   Genentech (South San Francisco, USA)
 - Jun-Sep 2007: Intern at Genkyotex, formerly Genticel/BT Pharma (Toulouse,

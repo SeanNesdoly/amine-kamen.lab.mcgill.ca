@@ -15,12 +15,12 @@ user_groups = ["PhD Candidates"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = "Development of a Vero cell platform for rVSV vector production."
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
   course = "MSc in Biotechnology"
   institution = "Technische Universität (Braunschweig, Germany)"
@@ -35,10 +35,13 @@ interests = []
   course = "BSc in Biotechnology"
   institution = "Technische Universität (Braunschweig, Germany)"
   year = "2010-2013"
-  
+
 # Social/Academic Networking
 # none
 +++
+
+*** Project
+Development of a Vero cell platform for rVSV vector production.
 
 *** Skills
 - Insect cell culture / baculovirus expression system
@@ -50,5 +53,4 @@ interests = []
 *** Work experience:
 - Oct 2015 - Aug 2016: Visiting graduate research student at the University of
   Western Ontario (London, Canada)
-- Apr 2015 - Sep 2015: Internship in the department of Bioprocess Technology &
-  Life Cycle Management at Evonik Industries (Germany)
+- Apr 2015 - Sep 2015: Internship in the department of Bioprocess Technology & Life Cycle Management at Evonik Industries (Germany)

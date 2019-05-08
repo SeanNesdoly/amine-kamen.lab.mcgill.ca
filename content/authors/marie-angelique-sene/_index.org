@@ -15,12 +15,12 @@ user_groups = ["PhD Candidates"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = "Vero cells."
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
   course = "Master in Mechanical Engineering"
   institution = "Seoul National University (South Korea)"
@@ -41,10 +41,13 @@ interests = []
   leading engineering schools"""
   year= "2011-2014"
   institution = "Sainte Geneviève High School (Versailles, France)"
-  
+
 # Social/Academic Networking
 # None
 +++
+
+*** Project
+Vero cells.
 
 *** Skills
 - Electro Wetting on Dielectric (EWOD) on silicon and glass substrate for

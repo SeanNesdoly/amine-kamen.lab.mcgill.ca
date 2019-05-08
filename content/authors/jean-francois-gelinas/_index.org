@@ -15,9 +15,7 @@ user_groups = ["Postdoctoral Fellows"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = """My research interests include cell culture engineering, bioprocess
-optimization and scale-up, and manufacturaing of antiviral vaccines and viral
-vectors for gene derlivery."""
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
@@ -27,11 +25,11 @@ interests = []
   course = "DPhil in Clinical Laboratory Sciences"
   institution = "University of Oxford (United Kingdom)"
   year = 2017
-  
+
 [[education.courses]]
   course = "MSc in Microbiology and Immunology"
   institution = "McGill University (Montreal, Canada)"
-  year = 2010 
+  year = 2010
 
 # Social/Academic Networking
 [[social]]
@@ -39,6 +37,11 @@ interests = []
   icon_pack = "fab"
   link = "www.linkedin.com/in/CT-1b025737"
 +++
+
+*** Research
+My research interests include cell culture engineering, bioprocess optimization
+and scale-up, and manufacturaing of antiviral vaccines and viral vectors for
+gene derlivery.
 
 *** Project
 Removing hurdles to Vesicular Stomatitis Virus vector production

@@ -15,22 +15,25 @@ user_groups = ["Staff"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = "A non-replicative adenovirus vaccine platform for poultry diseases"
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
 course = "PhD in Biological Sciences"
 institution = "University of Havana (Cuba)"
-  
+
 # Social/Academic Networking
 [[social]]
   icon = "researchgate"
   icon_pack = "ai"
   link = "https://www.researchgate.net/scientific-contributions/38947725_Omar_Farnos"
 +++
+
+*** Project
+A non-replicative adenovirus vaccine platform for poultry diseases.
 
 *** Skills
 - Protein expression in mammalian cells mediated by viral vectors for vaccine

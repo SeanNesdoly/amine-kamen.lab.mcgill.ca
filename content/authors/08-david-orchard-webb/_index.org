@@ -15,7 +15,7 @@ user_groups = ["Alumni"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = "Adenovirus platforms and cell culture media validation."
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
@@ -35,6 +35,9 @@ interests = []
   icon_pack = "fab"
   link = "https://ca.linkedin.com/in/david-orchard-webb-a49a3187"
 +++
+
+*** Project
+Adenovirus platforms and cell culture media validation.
 
 *** Work experience
 A combined 10 years of basic/ translational cancer research experience at the

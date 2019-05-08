@@ -15,17 +15,17 @@ user_groups = ["Postdoctoral Fellows"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = "Process intensification and scale-up of influenza virus production in HEK293 cells"
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education 
+# Education
 [[education.courses]]
   course = "PhD in Biochemistry"
   institution = "Université de Montréal (Quebec, Canada)"
   year = 2017
-  
+
 # Social/Academic Networking
 [[social]]
   icon = "linkedin"
@@ -33,10 +33,13 @@ interests = []
   link = "www.linkedin.com/in/CT-1b025737"
 +++
 
+*** Project
+Process intensification and scale-up of influenza virus production in HEK293
+cells.
+
 *** Skills
 - Stable cell line generation, metabolic flux analysis (13C-MFA), and fed-batch
   process development for antibody production in 2L-bioreactors.
-
 - Development of bioprocesses in 2 to 20L bioreactors for the production of
   antibody and various viral vaccines, GMP tech transfer (20 and 200L).
 

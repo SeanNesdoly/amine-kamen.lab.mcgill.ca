@@ -15,8 +15,7 @@ user_groups = ["Alumni"]
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
 
-bio = """Purification of Hepatitis C E1E2 glycoproteins and viral clearance
-studies"""
+bio = ""
 
 # List any interests in the format ["interest1", "interest2"]
 interests = []
@@ -29,6 +28,9 @@ interests = []
 # Social/Academic Networking
 # none
 +++
+
+*** Project
+Purification of Hepatitis C E1E2 glycoproteins and viral clearance studies.
 
 *** Work experience
 - Mammalian and Insect cell culture technology
