@@ -1,0 +1,28 @@
++++
+# Display name
+name = "Hsin Jou (Christine) Yang"
+
+# Username (this should match the folder name)
+authors = ["hsin-jou-yang"]
+
+# Lab position or title
+role = "Undergraduate Student (2017-2018)"
+
+# Organizational group(s) that the user belongs to. Refer to the 'user_groups'
+# variable located at /content/people/people.org for valid options.
+user_groups = ["Alumni"]
+
+# List any organizations in the format [ {name="org1", url="url1"}, ... ]
+organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
+
+bio = ""
+
+# List any interests in the format ["interest1", "interest2"]
+interests = []
+
+# Education
+# none
+
+# Social/Academic Networking
+# none
++++
