@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Hsin Jou (Christine) Yang"
+name = "Jiachi (Josh) Ou"
 
 # Username (this should match the folder name)
-authors = ["hsin-jou-yang"]
+authors = ["03-jiachi-ou"]
 
 # Lab position or title
-role = "Undergraduate Student (2017-2018)"
+role = "Undergraduate Student (2018)"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
@@ -21,7 +21,9 @@ bio = ""
 interests = []
 
 # Education
-# none
+[[education.courses]]
+  course = "BEng in Bioengineering"
+  institution = "McGill University (Montreal, Canada)"
 
 # Social/Academic Networking
 # none

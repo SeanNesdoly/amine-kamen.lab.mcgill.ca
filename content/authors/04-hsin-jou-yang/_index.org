@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Krisztina Koczka"
+name = "Hsin Jou (Christine) Yang"
 
 # Username (this should match the folder name)
-authors = ["krisztina-koczka"]
+authors = ["04-hsin-jou-yang"]
 
 # Lab position or title
-role = "Visiting Student (2017)"
+role = "Undergraduate Student (2017-2018)"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.

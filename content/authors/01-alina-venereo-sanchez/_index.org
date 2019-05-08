@@ -3,7 +3,7 @@
 name = "Alina Venereo Sanchez"
 
 # Username (this should match the folder name)
-authors = ["alina-venereo-sanchez"]
+authors = ["01-alina-venereo-sanchez"]
 
 # Lab position or title
 role = "Postdoctoral Fellow (2017-2018)"
