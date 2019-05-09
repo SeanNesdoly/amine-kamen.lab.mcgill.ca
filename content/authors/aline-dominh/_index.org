@@ -37,14 +37,14 @@ interests = []
 Characterization and quantification of extracellular vesicles during the
 production of lentiviral vectors.
 
-*** Skills:
+*** Skills
 - Biomanufacturing process development for vaccines and biologics: CHO cell
-  culture cultivation and monitoring (shake flasks, 2L, 10L bioreactors)
+  culture cultivation and monitoring (shake flasks, 2L, 10L bioreactors).
 - Harvest processes (microfiltration, depth filtration, centrifugation,
-  sedimentation)
+  sedimentation).
 - Purification processes (tangential filtration, virus inactivation in vaccine
-  processes, chromatography)
-- Analytical tools (SDS-PAGE, CE-SDS, NanoDrop)
+  processes, chromatography).
+- Analytical tools (SDS-PAGE, CE-SDS, NanoDrop).
 - cGMP and GLP environments, BSLII and BSLII+ environments, transfer of
   technology.
 

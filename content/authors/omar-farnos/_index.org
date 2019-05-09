@@ -37,17 +37,16 @@ A non-replicative adenovirus vaccine platform for poultry diseases.
 
 *** Skills
 - Protein expression in mammalian cells mediated by viral vectors for vaccine
-  development
+  development.
 - Design and production of chimeric virus-like particles in large-scale
-  production systems
+  production systems.
 - Manipulation of yeast, bacteria, mammalian cells and the mammary gland of
-  ruminants as heterologous expression systems
+  ruminants as heterologous expression systems.
 - Molecular and cellular immunology, host-pathogen interaction and
-  immunophenotyping of immune cell populations during viral infections
-- Design and conduction of pre-clinical and clinical trials
+  immunophenotyping of immune cell populations during viral infections.
+- Design and conduction of pre-clinical and clinical trials.
 
 *** Work experience
-- 2014-2017: Postdoctoral fellow and Research Associate at Université du Québec
-  à Montréal (UQAM) and BioMed Research Center at UQAM (Canada)
+- 2014-2017: Postdoctoral fellow and Research Associate at Université du Québec à Montréal (UQAM) and BioMed Research Center at UQAM (Canada)
 - 2013-2014: Visiting professor at University of Concepcion (Chile)
 - 2009: Visiting postdoctoral researcher at University of Oviedo (Spain)

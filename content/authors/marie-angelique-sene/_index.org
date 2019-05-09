@@ -47,19 +47,17 @@ interests = []
 +++
 
 *** Project
-Vero cells.
+Vero cells genomics.
 
 *** Skills
 - Electro Wetting on Dielectric (EWOD) on silicon and glass substrate for
-  Lab-on-Chip application
-- 3D printed substrate based Auto-Focusing and Auto-Zooming Liquid Lens
-- 3D patterned IPMC membranes for Drug Delivery
-- PEDOT-PSS heterojunction solar cells
-- Quality control for photolithography machines (PR Track, Nikon STEPPER)
-- Clean-room facility use (microfabrication facilities CMOS, MEMS)
+  Lab-on-Chip application.
+- 3D printed substrate based Auto-Focusing and Auto-Zooming Liquid Lens.
+- 3D patterned IPMC membranes for Drug Delivery.
+- PEDOT-PSS heterojunction solar cells.
+- Quality control for photolithography machines (PR Track, Nikon STEPPER).
+- Clean-room facility use (microfabrication facilities CMOS, MEMS).
 
 *** Work experience
-- Jan 2017 - Aug 2018: Microfabrication trainee at the Inter-University
-  Semiconductor Research Center (Seoul, South Korea)
-- Sep 2016 - Aug 2018: Research Student in the Nano/Micro Systems Laboratory at
-  Seoul National University (South Korea)
+- Jan 2017 - Aug 2018: Microfabrication trainee at the Inter-University Semiconductor Research Center (Seoul, South Korea)
+- Sep 2016 - Aug 2018: Research Student in the Nano/Micro Systems Laboratory at Seoul National University (South Korea)

@@ -40,7 +40,7 @@ interests = []
 - Pfizer Animal Health.
 - European Space Agency (MELISSA project).
 
-*** Competences
+*** Competencies
 - Cell culture
 - Molecular Biology
 - Bioprocess

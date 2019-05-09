@@ -22,14 +22,14 @@ interests = []
 
 # Education
 [[education.courses]]
+  course = "Master's student, fast-tracked into the PhD Program (Oct 2018)"
+  institution = "McGill University (Montreal, Canada)"
+  year = "2017-"
+
+[[education.courses]]
   course = "BSc in Bioengineering"
   institution = "University of California, Berkeley (USA)"
   year = "2008-2012"
-
-[[education.courses]]
-  course = "Master's student, fast-tracked into the PhD Program (Oct 2018)"
-  year = "2017-"
-  institution = "McGill University (Montreal, Canada)"
 
 # Social/Academic Networking
 [[social]]
@@ -66,4 +66,4 @@ Process Intensification and Functionality Assessment of Lentiviral Vectors.
   program (STEER: Short Term Educational Experiences for Research) at University
   of California, Berkeley (USA)
 - Feb 2011 - Aug 2012: Research Assistant in Nina Holland’s Children’s
-  Environmental Health Laboratory at University of California, Berkeley (USA)"
+  Environmental Health Laboratory at University of California, Berkeley (USA)

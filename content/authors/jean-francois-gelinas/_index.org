@@ -38,14 +38,13 @@ interests = []
   link = "www.linkedin.com/in/CT-1b025737"
 +++
 
-*** Research
-My research interests include cell culture engineering, bioprocess optimization
-and scale-up, and manufacturaing of antiviral vaccines and viral vectors for
-gene derlivery.
-
 *** Project
-Removing hurdles to Vesicular Stomatitis Virus vector production
-through design of novel bioengineered cell lines.
+Removing hurdles to Vesicular Stomatitis Virus vector production through design
+of novel bioengineered cell lines.
+
+*** Research Interests
+Cell culture engineering, bioprocess optimization and scale-up, and
+manufacturing of antiviral vaccines and viral vectors for gene delivery.
 
 *** Skills
 Viral vector production for viral vectors and vaccines.
