@@ -13,7 +13,7 @@ headless = false
  css_style = "padding-top: 10px; padding-bottom: 10px;"
 +++
 
-# Available Technology
+# **Available Technology**
 
 Our lab is equipped with a variety of equipment and resources that enable us to
 develop novel cell lines and manufacturing processes for the production,

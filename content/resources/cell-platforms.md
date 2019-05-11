@@ -45,7 +45,7 @@ headless = false
  css_style = "padding-top: 10px; padding-bottom: 10px;"
 +++
 
-# Cell-based Expression Platforms
+# **Cell-based Expression Platforms**
 
 Our strategic focus regarding expression platforms is mainly centered around
 eukaryotic cell-based systems, namely HEK293, VERO cells, and insect-derived

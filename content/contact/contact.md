@@ -21,8 +21,8 @@ email_form = 0
 {{< figure library="1" src="contact-collage.jpg" >}}
 
 Our research group is part of the recently created Department of Bioengineering,
-the newest department to join McGill University’s renowned Faculty of
-Engineering. Together with our colleagues, we are actively involved in various
-areas of Bioengineering, including: computational biology, materials and
-mechanics, biomolecular and cellular engineering, and biomedical, diagnostic,
-and high throughput screening.
+the newest department to join McGill University’s renowned [Faculty of
+Engineering](https://www.mcgill.ca/engineering/). Together with our colleagues,
+we are actively involved in various areas of Bioengineering, including:
+computational biology, materials and mechanics, biomolecular and cellular
+engineering, and biomedical, diagnostic, and high throughput screening.
