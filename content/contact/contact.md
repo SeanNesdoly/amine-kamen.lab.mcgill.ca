@@ -1,13 +1,12 @@
 +++
-# Contact widget.
-widget = "contact"  # Do not modify this line!
+# Contact widget
+widget = "contact"
 active = true
+weight = 10
+headless = false
 
 title = "Contact"
 subtitle = ""
-
-# Order that this section will appear in.
-weight = 10
 
 # Automatically link email and phone?
 autolink = true
