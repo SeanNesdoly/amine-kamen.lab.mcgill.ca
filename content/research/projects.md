@@ -1,35 +1,12 @@
 +++
-# Portfolio widget
+# Portfolio widget for research projects
 widget = "portfolio"
+active = true
 weight = 10
 headless = false
 
-title = "Research"
-subtitle = ""
-
 [content]
   page_type = "project"
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -65,10 +42,10 @@ subtitle = ""
   # text_color_light = true
 
 [advanced]
- css_style = ""
-
- css_class = ""
+ css_style = "padding-top: 10px; padding-bottom: 10px;"
 +++
+
+# Research
 
 The Viral Vectors and Vaccines Bioprocessing group of Prof. Kamen is examining
 how the viral vaccine production process can be accelerated by understanding how
