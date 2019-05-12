@@ -38,16 +38,16 @@ interests = []
   link = "https://www.linkedin.com/in/pranav-joshi-6b730025/"
 +++
 
-*** Project
+### Project
 Process development for the production and purification of rAAV based gene
 therapy vectors.
 
-*** Skills
+### Skills
 Process development for the production of biotherapeutics including monoclonal
 antibodies (Bevacizumab) and hormones (FSH) in recombinant CHO cell line.
 Integral part of the scale-up team responsible for technology transfer to pilot
 and commercial scale facilities.
 
-*** Work experience
+### Work experience
 - 2013-2015: Associate Engineer in the Upstream Cell Culture group at Intas
   Pharmaceuticals Ltd., Biotechnology division (Ahmedabad, India)

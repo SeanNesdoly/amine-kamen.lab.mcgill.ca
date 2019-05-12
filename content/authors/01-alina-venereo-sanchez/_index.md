@@ -44,11 +44,11 @@ interests = []
 
 +++
 
-*** Project
+### Project
 HEK-293 stable cell line development for production, scale up and
 characterization of influenza virus-like particles.
 
-*** Work experience
+### Work experience
 - 2013-2018: As a PhD candidate, experience with cell line development,
   bioprocess optimization, and downstream processing at the National Research
   Council of Canada.

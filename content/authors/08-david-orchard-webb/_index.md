@@ -36,10 +36,10 @@ interests = []
   link = "https://ca.linkedin.com/in/david-orchard-webb-a49a3187"
 +++
 
-*** Project
+### Project
 Adenovirus platforms and cell culture media validation.
 
-*** Work experience
+### Work experience
 A combined 10 years of basic/ translational cancer research experience at the
 Webb-Waring Centre (University of Colorado), University of Bath and University
 of Leeds, including the development of adenoviral vectors.

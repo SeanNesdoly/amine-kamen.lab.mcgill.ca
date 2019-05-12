@@ -35,11 +35,13 @@ interests = []
 # None
 +++
 
-*** Skills
-- Development of analitycal and purification methods for recombinant proteins in the biopharmaceutical industry.
+### Skills
+- Development of analitycal and purification methods for recombinant proteins in
+  the biopharmaceutical industry.
 
-*** Work experience
+### Work experience
 - Since 2018: Scientist at Alexion Pharmaceuticals (Connecticut, USA)
-- 2015-2018: Graduate researcher in the Viral Vectors and Vaccines Bioprocessing group at McGill University (Montreal, Canada)
+- 2015-2018: Graduate researcher in the Viral Vectors and Vaccines Bioprocessing
+  group at McGill University (Montreal, Canada)
 - 2012-2015: Scientist in Analytical development at Protein Sciences
   (Connecticut, USA)

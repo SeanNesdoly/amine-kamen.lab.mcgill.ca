@@ -38,18 +38,18 @@ interests = []
   link = "www.linkedin.com/in/CT-1b025737"
 +++
 
-*** Project
+### Project
 Removing hurdles to Vesicular Stomatitis Virus vector production through design
 of novel bioengineered cell lines.
 
-*** Research Interests
+### Research Interests
 Cell culture engineering, bioprocess optimization and scale-up, and
 manufacturing of antiviral vaccines and viral vectors for gene delivery.
 
-*** Skills
+### Skills
 Viral vector production for viral vectors and vaccines.
 
-*** Work experience
+### Work experience
 - 2011-2012: Research Specialist in Levine’s Clinical Cell and Vaccine
   Production Facility at the University of Pennsylvania (USA)
 - 2010-2011: Research assistant in the Viral Hepatitis Research group at Centre

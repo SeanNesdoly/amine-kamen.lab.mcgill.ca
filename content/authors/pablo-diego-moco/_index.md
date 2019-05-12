@@ -58,12 +58,12 @@ interests = []
   link = "http://www.researcherid.com/rid/J-9989-2015"
 +++
 
-*** Skills
+### Skills
 - Mammalian cell culture
 - Lentiviral vector production
 - CAR-T cell development
 
-*** Work experience
+### Work experience
 - 2014: Summer internship in the Terrence Donnelly Centre for Cellular &
   Biomolecular Research at University of Toronto (Canada)
 - 2013: Internship at Toronto Centre for Phenogenomics (Canada)

@@ -38,12 +38,12 @@ interests = []
   link = "https://ca.linkedin.com/in/ryan-kligman-625131b2"
 +++
 
-*** Project
-Using CRISPR-Cas9 genome editing technology, I will be creating a
-stable cell-line for the industrial production of Adeno-Associated Virus as a
-gene therapy vector.
+### Project
+Using CRISPR-Cas9 genome editing technology, I will be creating a stable
+cell-line for the industrial production of Adeno-Associated Virus as a gene
+therapy vector.
 
-*** Work experience
+### Work experience
 - Lady Davis Institute, Segal Cancer Centre, Montreal Centre for Experimental
   Therapeutics in Cancer (2015).
 - McGill University Health Centre, Department of Cardiology, Cardiovascular

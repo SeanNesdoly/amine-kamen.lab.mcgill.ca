@@ -46,6 +46,7 @@ interests = []
   link = "https://www.researchgate.net/profile/Xavier_Elisseeff"
 +++
 
-*** Work experience
-- July, 2017 - 2018: Research assistant (influenza project) with Prof. Kamen lab,
-Bioengineering Department, McGill University. Cellular and molecular biology.
+### Work experience
+- July 2017 - 2018: Research assistant (influenza project) with Prof. Kamen
+  lab, Bioengineering Department, McGill University. Cellular and molecular
+  biology.

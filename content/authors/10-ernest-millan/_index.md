@@ -32,15 +32,15 @@ interests = []
 # Social/Academic Networking
 # none
 +++
-*** Projects
+### Projects
 1. Influenza virus production by reverse genetics.
 2. Adaptation of Vero cells into suspension.
 
-*** Work experience
+### Work experience
 - Pfizer Animal Health.
 - European Space Agency (MELISSA project).
 
-*** Competencies
+### Competencies
 - Cell culture
 - Molecular Biology
 - Bioprocess

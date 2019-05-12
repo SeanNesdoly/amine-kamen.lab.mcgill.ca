@@ -36,6 +36,6 @@ interests = []
 # None
 +++
 
-*** Work experience
+### Work experience
 - Jan-Jun 2011: Visiting graduate research student at INRS-Institut
   Armand-Frappier (Montreal, Canada)

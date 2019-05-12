@@ -45,15 +45,16 @@ interests = []
   link = "https://www.researchgate.net/profile/Laura_Cervera2"
 +++
 
-*** Project
+### Project
 Production of Influenza VLPs using Baculovirus-Sf9 cells expression system.
 
-*** Work experience
+### Work experience
 - PhD with the title: Strategies to improve the production of HIV-1 VLPs by
   transient transfection of suspension mammalian cells.
 - Optimization using design of experiments.
 - Mammalian and insect cell culture.
 - Transient transfection.
-- Recombinant protein production using Baculovirus-Insect cells expression system.
+- Recombinant protein production using Baculovirus-Insect cells expression
+  system.
 - Bioreactor operation.
 - Confocal microscopy.

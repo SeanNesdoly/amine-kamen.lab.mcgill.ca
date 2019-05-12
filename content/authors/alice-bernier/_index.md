@@ -1,16 +1,16 @@
 +++
 # Display name
-name = "Ibrahim Ahmed"
+name = "Alice Bernier"
 
 # Username (this should match the folder name)
-authors = ["07-ibrahim-ahmed"]
+authors = ["alice-bernier"]
 
 # Lab position or title
-role = "Postdoctoral Fellow (2016-2017)"
+role = "Staff (Technical Consultant)"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
-user_groups = ["Alumni"]
+user_groups = ["Staff"]
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
@@ -20,22 +20,19 @@ bio = ""
 # List any interests in the format ["interest1", "interest2"]
 interests = []
 
-# Education
+# Education 
 [[education.courses]]
-  course = "PhD Bioprocess Engineering"
-  institution = "FAU Erlangen-Nuremberg"
+  course = "BSc in Biochemistry"
+  institution = "Université du Québec à Trois-Rivières (Canada)"
 
 # Social/Academic Networking
-# none
+# None
 +++
+### Skills
+- Downstream processing (filtration, chromatography, etc.)
+- Analytical methods (HPLC, SRID, etc.)
+- Viral clearance
 
-*** Project
-Purification of Hepatitis C E1E2 glycoproteins and viral clearance studies.
-
-*** Work experience
-- Mammalian and Insect cell culture technology
-- Cell line development
-- Cell immobilization
-- Baculovirus expression system
-- Protein purification
-- Molecular biology
+### Work experience
+- 1998-2017: Technical Officer in the Purification group at National Research
+  Council Canada (Montreal, Canada)

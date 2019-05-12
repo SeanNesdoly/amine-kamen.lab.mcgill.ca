@@ -33,11 +33,11 @@ interests = []
   link = "https://www.linkedin.com/in/jos%C3%A9-pedro-losa-57279b155/"
 +++
 
-*** Project
+### Project
 Evaluation of VERO cell culture and VSV-based vaccine production in a new
 bioreactor unit.
 
-*** Skills
+### Skills
 - Cultivation of mammalian cells for viral vaccine production (yellow fever)
 - Super-resolution microscopy (dSTORM)
 - Computational fluid dynamics

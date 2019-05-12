@@ -40,17 +40,18 @@ interests = []
 # none
 +++
 
-*** Project
+### Project
 Development of a Vero cell platform for rVSV vector production.
 
-*** Skills
+### Skills
 - Insect cell culture / baculovirus expression system
 - Metabolic engineering of Corynebacterium glutamicum
 - Pervaporation for in-situ product removal during fermentative butanol
   production
 - Large-scale bioreactor characterization
 
-*** Work experience:
+### Work experience:
 - Oct 2015 - Aug 2016: Visiting graduate research student at the University of
   Western Ontario (London, Canada)
-- Apr 2015 - Sep 2015: Internship in the department of Bioprocess Technology & Life Cycle Management at Evonik Industries (Germany)
+- Apr 2015 - Sep 2015: Internship in the department of Bioprocess Technology &
+  Life Cycle Management at Evonik Industries (Germany)

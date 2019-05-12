@@ -43,14 +43,15 @@ interests = []
   link = "https://orcid.org/0000-0003-3472-0471"
 +++
 
-*** Project
+### Project
 Process Intensification and Functionality Assessment of Lentiviral Vectors.
 
-*** Skills
+### Skills
 - Cell culture engineering and development of scalable purification methods for
   therapeutic recombinant enzymes from mammalian cells and gene therapy vectors
   from Adeno-Associated Viruses and lentivirus.
-- Process and technical transfer to manufacturing, product characterization and risk assessment for FDA review, and lab automation with TECAN liquid handler.
+- Process and technical transfer to manufacturing, product characterization and
+  risk assessment for FDA review, and lab automation with TECAN liquid handler.
 - Purification and analytical techniques: protein chromatography, zonal
   ultracentrifugation, tangential flow filtration, membrane filtration,
   endotoxin-free material production, enzymatic activity assays, HPLC/UPLC
@@ -59,7 +60,7 @@ Process Intensification and Functionality Assessment of Lentiviral Vectors.
   blots, SDS PAGE, endotoxin testing, AKTA Unicorn chromatography software,
   Agilent HPLC software, Waters UPLC software, and JMP statistical software.
 
-*** Work experience
+### Work experience
 - Jan 2013 - Aug 2017: Research Associate in the Purification Process
   Development group at BioMarin Pharmaceutical Inc. (Novato, CA, USA)
 - Jun 2012 - Aug 2012: Intern for an environmental health science internship

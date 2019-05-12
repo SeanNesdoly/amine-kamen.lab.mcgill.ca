@@ -37,10 +37,13 @@ interests = []
   link = "https://www.linkedin.com/in/jingtian-su-699898b1"
 +++
 
-*** Project
+### Project
 Downstream purification of HepC E1&E2 proteins using ÄKTA Avant 25.
 
-*** Work experience
-- Three months (2016.06-2016.08) in downstream protein purification using ÄKTA Avant 25 at McGill University, Montréal, QC.
-- Four months (2014.05-2014-08) vaccine R&D at VIDO-InterVac, Saskatoon, Saskatchewan.
-- Four months (2014.05-2014.08) in vaccine marketing analysis and partnership seeking at PREVENT, Saskatoon, Saskatchewan.
+### Work experience
+- Three months (2016.06-2016.08) in downstream protein purification using ÄKTA
+  Avant 25 at McGill University, Montréal, QC.
+- Four months (2014.05-2014-08) vaccine R&D at VIDO-InterVac, Saskatoon,
+  Saskatchewan.
+- Four months (2014.05-2014.08) in vaccine marketing analysis and partnership
+  seeking at PREVENT, Saskatoon, Saskatchewan.

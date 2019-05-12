@@ -33,15 +33,15 @@ interests = []
   link = "www.linkedin.com/in/CT-1b025737"
 +++
 
-*** Project
+### Project
 Process intensification and scale-up of influenza virus production in HEK293
 cells.
 
-*** Skills
+### Skills
 - Stable cell line generation, metabolic flux analysis (13C-MFA), and fed-batch
   process development for antibody production in 2L-bioreactors.
 - Development of bioprocesses in 2 to 20L bioreactors for the production of
   antibody and various viral vaccines, GMP tech transfer (20 and 200L).
 
-*** Work experience
+### Work experience
 - 2008-2011: Upstream process development at Vivalis (Nantes, France)

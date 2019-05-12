@@ -32,10 +32,10 @@ institution = "University of Havana (Cuba)"
   link = "https://www.researchgate.net/scientific-contributions/38947725_Omar_Farnos"
 +++
 
-*** Project
+### Project
 A non-replicative adenovirus vaccine platform for poultry diseases.
 
-*** Skills
+### Skills
 - Protein expression in mammalian cells mediated by viral vectors for vaccine
   development.
 - Design and production of chimeric virus-like particles in large-scale
@@ -46,7 +46,8 @@ A non-replicative adenovirus vaccine platform for poultry diseases.
   immunophenotyping of immune cell populations during viral infections.
 - Design and conduction of pre-clinical and clinical trials.
 
-*** Work experience
-- 2014-2017: Postdoctoral fellow and Research Associate at Université du Québec à Montréal (UQAM) and BioMed Research Center at UQAM (Canada)
+### Work experience
+- 2014-2017: Postdoctoral fellow and Research Associate at Université du Québec
+  à Montréal (UQAM) and BioMed Research Center at UQAM (Canada)
 - 2013-2014: Visiting professor at University of Concepcion (Chile)
 - 2009: Visiting postdoctoral researcher at University of Oviedo (Spain)

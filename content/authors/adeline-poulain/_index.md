@@ -35,18 +35,19 @@ interests = []
 # none
 +++
 
-*** Project
+### Project
 Development of an efficient and flexible stable pool platform using insect cell
 culture and plasmid transfection to produce high yields of VLPs as influenza
 vaccines.
 
-*** Skills
+### Skills
 - Development and characterization of a stable CHO cell pool platform for rapid
   production of recombinant protein.
 - Optimization of plasmid expression vectors for the production of monoclonal
   antibodies in CHO cells.
 - RhoA protein function in type 2 diabetes.
 
-*** Work experience
+### Work experience
 - 2012: Internship at Cellectis (Paris, France)
-- 2011: 6-month internship at Biotech Research and Innovation Center (Copenhagen, Denmark)
+- 2011: 6-month internship at Biotech Research and Innovation Center
+  (Copenhagen, Denmark)

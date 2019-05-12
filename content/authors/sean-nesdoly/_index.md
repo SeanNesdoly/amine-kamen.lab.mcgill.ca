@@ -43,14 +43,15 @@ year = "2014-2018"
   link = "https://www.linkedin.com/in/seannesdoly/"
 +++
 
-*** Project
+### Project
 Bioinformatics of human-influenza genetic and functional interactions.
 
-*** Skills
+### Skills
 - Next-generation sequencing analysis
 - High-performance computing
 - Java, UNIX, C/C++, R, Python, MATLAB, Git, Jira, Vi/m
 
-*** Work experience
-- 2017-2018: Research assistant at Queen's Computational Genomics Lab (Kingston, ON, Canada)
+### Work experience
+- 2017-2018: Research assistant at Queen's Computational Genomics Lab (Kingston,
+  ON, Canada)
 - 2014-2016: Summer co-op student developer at Enersight (Calgary, AB, Canada)

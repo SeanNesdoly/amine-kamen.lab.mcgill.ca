@@ -43,12 +43,12 @@ interests = []
   link = "https://scholar.google.ca/citations?user=dbIYQVoAAAAJ&hl=en"
 +++
 
-*** Project
+### Project
 Acceleration and intensification of pandemic influenza vaccine manufacturing by
 genetic engineering of the HEK-293SF cell line.
 
-*** Skills:
-- Five years (+) combined lab experience, primarily in molecular virology and
+### Skills:
+- Five-years (+) combined lab experience, primarily in molecular virology and
   medical genetics research.
 - Production, purification, titration, and mutagenesis of DNA and RNA viruses.
 - Cell culture and stable cell line generation.

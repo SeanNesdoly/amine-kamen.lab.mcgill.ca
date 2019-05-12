@@ -92,7 +92,7 @@ user_groups = ["Principal Investigator"]
 
 +++
 
-*** Biography
+### Biography
 Amine Kamen is Professor of Bioengineering at McGill University, and Canada
 Research Chair tier-1 in Bioprocessing of Viral Vaccines. He was recently
 nominated Researcher Emeritus of the National Research Council of Canada. He was
@@ -110,6 +110,6 @@ vaccination. He published over one hundred and thirty papers in refereed
 international journals and acts as consultant for a number of national and
 international private and public organizations.
 
-*** Courses
-- [[https://www.mcgill.ca/study/2018-2019/courses/bien-590][BIEN 590: Cell Culture Engineering]]
-- [[https://www.mcgill.ca/study/2018-2019/courses/bien-340][BIEN 340: Transport Processes in Biological Systems]]
+### Courses
+- [BIEN 590: Cell Culture Engineering](https://www.mcgill.ca/study/2018-2019/courses/bien-590)
+- [BIEN 340: Transport Processes in Biological Systems](https://www.mcgill.ca/study/2018-2019/courses/bien-340)

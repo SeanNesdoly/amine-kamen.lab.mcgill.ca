@@ -33,11 +33,11 @@ interests = []
   link = "https://www.linkedin.com/in/aline-do-minh-46852a5"
 +++
 
-*** Project
+### Project
 Characterization and quantification of extracellular vesicles during the
 production of lentiviral vectors.
 
-*** Skills
+### Skills
 - Biomanufacturing process development for vaccines and biologics: CHO cell
   culture cultivation and monitoring (shake flasks, 2L, 10L bioreactors).
 - Harvest processes (microfiltration, depth filtration, centrifugation,
@@ -48,12 +48,13 @@ production of lentiviral vectors.
 - cGMP and GLP environments, BSLII and BSLII+ environments, transfer of
   technology.
 
-*** Work experience
+### Work experience
 - 2016: Technical Officer in Purification in the Human Health Therapeutics
   Portfolio at National Research Council Canada (Montreal, Canada)
 - 2013-2015: Project Manager and Tech Transfer Specialist for Mylan, formerly
   Confab, at Genipro (Montreal, Canada)
-- 2009-2012: Bioprocess Engineer in the Downstream Processing department at Janssen Vaccines (Leiden, Netherlands)
+- 2009-2012: Bioprocess Engineer in the Downstream Processing department at
+  Janssen Vaccines (Leiden, Netherlands)
 - 2008: Co-op in Process Research and Development, Late Stage Cell Culture at
   Genentech (South San Francisco, USA)
 - Jun-Sep 2007: Intern at Genkyotex, formerly Genticel/BT Pharma (Toulouse,
