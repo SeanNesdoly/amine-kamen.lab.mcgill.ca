@@ -16,7 +16,7 @@ baseurl = "http://amine-kamen.lab.mcgill.ca"
 copyright = "&copy; 2019 Viral Vectors and Vaccines Bioprocessing Group"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-140333312-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
