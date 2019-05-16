@@ -39,6 +39,12 @@
           {{ if .url }}</a>{{ end }}
         </h3>
         {{ end }}
+
+        <ul class="network-icon" style="margin-top: 0px">
+          {{ range $person.flags }}
+            <li><img src="/img/flags/{{ . }}" itemprop="image" class="network-icon" style="margin: auto;"></li>
+          {{ end }}
+        </ul>
       </div>
 
       <link itemprop="url" href="{{ .Permalink }}">
