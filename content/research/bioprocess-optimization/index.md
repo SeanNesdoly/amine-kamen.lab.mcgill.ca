@@ -2,6 +2,7 @@
 title = "Bioprocess Optimization and Scale-up"
 widget = "portfolio"
 active = true
+weight = 40
 +++
 
 - Design of advanced animal cell culture bioprocesses that have been transferred

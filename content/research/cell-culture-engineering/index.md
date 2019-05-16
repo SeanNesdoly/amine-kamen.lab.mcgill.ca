@@ -2,6 +2,7 @@
 title = "Cell Culture Engineering"
 widget = "portfolio"
 active = true
+weight = 30
 +++
 
 We maintain a strategic focus on cell culture in suspension and serum free

@@ -2,6 +2,7 @@
 title = "Viral vaccines manufacturing & viral vectors for gene delivery"
 widget = "portfolio"
 active = true
+weight = 20
 +++
 
 Adenoviral, adenoassociated and baculovirus vectors are representative of a
