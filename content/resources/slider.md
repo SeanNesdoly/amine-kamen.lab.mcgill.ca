@@ -31,7 +31,10 @@ applications.
 [[item]]
   title = "GE ÄKTA - Avant Purification System"
   align = "left"
-  content = ""
+  content = """
+ÄKTA avant is a preparative protein purification chromatography system designed
+for fast and secure development of scalable methods and processes.
+"""
 
   overlay_img = "resources/akta-avant.png"
   overlay_filter = 0.5
