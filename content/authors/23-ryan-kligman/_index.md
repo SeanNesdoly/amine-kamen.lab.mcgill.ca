@@ -13,7 +13,10 @@ role = "MEng Student (2016-2017)"
 user_groups = ["Alumni"]
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
-organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
+organizations = []
+
+# List country flags in the format ["flag1.png", ...]
+flags = ["canada.png"]
 
 bio = ""
 
