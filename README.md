@@ -4,8 +4,8 @@ This repository contains Prof. Amine Kamen's [Viral Vectors and Vaccines
 Bioprocessing Group website](http://amine-kamen.lab.mcgill.ca/). 
 
 [Sean Nesdoly](https://github.com/SeanNesdoly) developed and currently maintains
-the site. Send an email to [](srnesdoly@gmail.com) for requests to update
-content or contribute to the repository.
+the site. Send an email to srnesdoly@gmail.com for requests to update content or
+contribute to the repository.
 
 The website was built using the **Academic theme for Hugo**, an open-source
 framework for building static websites. The repository was originally forked
@@ -30,7 +30,7 @@ website.
       webiste. Changes made to local files are reflected here.
 6. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to
    learn how to add markdown content and customize the site.
-7. Make changes to the website. Contact [](srnesdoly@gmail.com) to be added as a
+7. Make changes to the website. Contact srnesdoly@gmail.com to be added as a
    contributor on the repository.
 
 ## Resources
