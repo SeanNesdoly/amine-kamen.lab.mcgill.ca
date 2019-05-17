@@ -16,7 +16,7 @@ user_groups = ["PhD Candidates"]
 organizations = []
 
 # List country flags in the format ["flag1.png", ...]
-flags = ["france.png"]
+flags = ["france.png", "canada.png"]
 
 bio = ""
 
