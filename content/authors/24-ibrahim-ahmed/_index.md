@@ -3,7 +3,7 @@
 name = "Ibrahim Ahmed"
 
 # Username (this should match the folder name)
-authors = ["07-ibrahim-ahmed"]
+authors = ["ibrahim-ahmed"]
 
 # Lab position or title
 role = "Postdoctoral Fellow (2016-2017)"
@@ -11,6 +11,9 @@ role = "Postdoctoral Fellow (2016-2017)"
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
 user_groups = ["Alumni"]
+
+# Order within organizational group on page
+weight = 7
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []

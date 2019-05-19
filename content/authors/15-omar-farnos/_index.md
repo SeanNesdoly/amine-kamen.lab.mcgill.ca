@@ -12,6 +12,9 @@ role = "Staff (Research Associate)"
 # variable located at /content/people/people.org for valid options.
 user_groups = ["Staff"]
 
+# Order within organizational group on page
+weight = 2
+
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
 

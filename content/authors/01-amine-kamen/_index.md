@@ -37,6 +37,9 @@ interests = [
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups = ["Principal Investigator"]
 
+# Order within organizational group on page
+weight = 1
+
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD Chemical Engineering"

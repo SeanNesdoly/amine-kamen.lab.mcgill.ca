@@ -12,6 +12,9 @@ role = "Visiting Student"
 # variable located at /content/people/people.org for valid options.
 user_groups = ["Visiting Members"]
 
+# Order within organizational group on page
+weight = 1
+
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
 

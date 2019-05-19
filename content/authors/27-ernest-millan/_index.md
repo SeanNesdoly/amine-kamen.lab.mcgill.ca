@@ -3,7 +3,7 @@
 name = "Ernest Millan"
 
 # Username (this should match the folder name)
-authors = ["10-ernest-millan"]
+authors = ["ernest-millan"]
 
 # Lab position or title
 role = "Postdoctoral Fellow (2014-2017)"
@@ -12,8 +12,11 @@ role = "Postdoctoral Fellow (2014-2017)"
 # variable located at /content/people/people.org for valid options.
 user_groups = ["Alumni"]
 
+# Order within organizational group on page
+weight = 10
+
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
-organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
+organizations = []
 
 bio = ""
 
