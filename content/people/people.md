@@ -15,5 +15,5 @@ user_groups = ["Principal Investigator",
                "Alumni"]
 +++
 
-* *Lab Members*
-/(click on a profile for more information)/
+# **Lab Members**
+_(click on a profile for more information)_
