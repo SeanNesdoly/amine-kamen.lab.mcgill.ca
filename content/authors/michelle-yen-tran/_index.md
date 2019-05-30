@@ -28,7 +28,7 @@ interests = []
 
 # Education
 [[education.courses]]
-  course = "Master's student, fast-tracked into the PhD Program (Oct 2018)"
+  course = "Master's student (Sep 2017), fast-tracked into the PhD Program (Oct 2018)"
   institution = "McGill University (Montreal, Canada)"
   year = "2017-"
 
@@ -50,7 +50,7 @@ interests = []
 +++
 
 ### Project
-Process Intensification and Functionality Assessment of Lentiviral Vectors.
+Functionality Improvement and Process Intensification of Lentiviral Vectors.
 
 ### Skills
 - Cell culture engineering and development of scalable purification methods for
