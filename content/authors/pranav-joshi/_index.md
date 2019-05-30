@@ -49,11 +49,19 @@ Process development for the production and purification of rAAV based gene
 therapy vectors.
 
 ### Skills
+1. Mammalian and Insect cell culture
+2. Glycoproteins production in rCHO cells
+3. AAV vectorology
+4. Analytical and Preparative chromatography 
+5. Molecular bioanalytics
+6. Enzymology and Biocatalysis
+7. Enzymatic biochemical reaction engineering
+
+### Work experience
 Process development for the production of biotherapeutics including monoclonal
 antibodies (Bevacizumab) and hormones (FSH) in recombinant CHO cell line.
 Integral part of the scale-up team responsible for technology transfer to pilot
 and commercial scale facilities.
 
-### Work experience
 - 2013-2015: Associate Engineer in the Upstream Cell Culture group at Intas
   Pharmaceuticals Ltd., Biotechnology division (Ahmedabad, India)
