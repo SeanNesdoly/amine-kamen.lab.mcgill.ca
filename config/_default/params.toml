@@ -52,10 +52,10 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "bioengvvv@gmail.com"
 #phone = "+1-514-398-5775"
 address = """McGill Bioengineering Department at UQAM <br>
-             Pavillon des Sciences Biologiques, rm SB-5585 <br>
+             Pavillon des Sciences Biologiques, room SB-5585 <br>
              141 Avenue du Président-Kennedy <br>
              Montréal, QC, H2X 1Y4"""
 
