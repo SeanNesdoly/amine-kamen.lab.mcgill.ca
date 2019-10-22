@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Prof. Amine Kamen"
+name = "Professor Amine Kamen"
 
 # Username (this should match the folder name)
 authors = ["amine-kamen"]
@@ -114,5 +114,5 @@ international journals and acts as consultant for a number of national and
 international private and public organizations.
 
 ### Courses
-- [BIEN 590: Cell Culture Engineering](https://www.mcgill.ca/study/2018-2019/courses/bien-590)
-- [BIEN 340: Transport Processes in Biological Systems](https://www.mcgill.ca/study/2018-2019/courses/bien-340)
+- [BIEN 590: Cell Culture Engineering](https://www.mcgill.ca/study/2019-2020/courses/bien-590)
+- [BIEN 340: Transport Phenomena in Biological Systems](https://www.mcgill.ca/study/2019-2020/courses/bien-340)
