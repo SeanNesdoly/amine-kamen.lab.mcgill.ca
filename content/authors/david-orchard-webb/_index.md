@@ -13,7 +13,7 @@ role = "Postdoctoral Fellow"
 user_groups = ["Alumni"]
 
 # Order within organizational group on page
-weight = 8
+weight = 10
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
