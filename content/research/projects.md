@@ -47,7 +47,7 @@ headless = false
 
 # **Research**
 
-The _Viral Vectors and Vaccines Bioprocessing_ group of [Prof. Kamen]({{< ref
+The _Viral Vectors and Vaccines Bioprocessing_ group of [Professor Kamen]({{< ref
 "/authors/amine-kamen/_index.md" >}}) is examining how the viral vaccine
 production process can be accelerated by understanding how cells and viruses
 interact, as well as the cellular metabolic state needed for maximum

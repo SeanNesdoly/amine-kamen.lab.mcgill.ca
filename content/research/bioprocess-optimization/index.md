@@ -12,4 +12,4 @@ weight = 40
   changes in animal cell physiological states during bioreactor culture
   operations.
 
-{{< figure src="bioprocess-optimization/acoustic-filter.jpg" >}}
+{{< figure src="bioprocess-optimization/acoustic-filter.jpg" height="60%" width="60%">}}
