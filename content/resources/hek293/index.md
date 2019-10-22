@@ -9,7 +9,7 @@ headless = false
 +++
 
 HEK293 is a cell line originally derived from human embryonic kidney. Besides
-being commonly used in cancer research it has become an iconic cell line for the
-production of adenoviral-based and retroviral-based viral vectors.
+being commonly used in cancer research, it has become an iconic cell line for
+the production of adenoviral-based and retroviral-based viral vectors.
 
 {{< figure src="hek293/hek293.jpg" >}}

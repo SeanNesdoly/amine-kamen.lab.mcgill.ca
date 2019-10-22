@@ -48,6 +48,6 @@ headless = false
 # **Cell-based Expression Platforms**
 
 Our strategic focus regarding expression platforms is mainly centered around
-eukaryotic cell-based systems, namely HEK293, VERO cells, and insect-derived
-cell lines used in the baculoviral expression system. The relevance of these
-platforms resides in their widespread use within the industrial sector.
+eukaryotic cell-based systems, namely HEK293, VERO, and insect-derived cell
+lines with the option of using the baculoviral expression system. The relevance
+of these platforms resides in their widespread use within the industrial sector.

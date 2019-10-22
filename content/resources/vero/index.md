@@ -1,5 +1,5 @@
 +++
-title = "Vero cells"
+title = "Vero"
 widget = "portfolio"
 active = true
 headless = false
