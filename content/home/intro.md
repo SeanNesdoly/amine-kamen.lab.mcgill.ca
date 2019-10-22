@@ -34,29 +34,31 @@ headless = false
 
 [advanced]
  # Custom CSS
- css_style = "padding-top: 20px; padding-bottom: 20px;"
+ css_style = "padding-top: 20px; padding-bottom: 20px; font-size: 80%"
 
  # Custom CSS class
  css_class = ""
 +++
 
 <div class="row">
-  <div class="col-sm">
-    {{< figure library="1" src="vaccination-626x626.png" >}}
+  <div class="col-4">
+    {{< figure library="1" src="vaccination-626x626.png" height="80%" width="80%">}}
   </div>
-  <div class="col-lg">
-Vaccines are one of the most effective ways to reduce illness and death caused
-by infectious diseases. We often associate vaccines with childhood, but new
-vaccination strategies have the potential to protect adults from cancer and
-chronic diseases. This is thanks to emerging technology that helps turn
-recombinant viruses (formed by recombining genetic material) into antigens and
-immunotherapeutics. An antigen is any substance that causes the immune system to
-produce antibodies; immunotherapy treats disease by inducing an immune response.
-Research in these areas is expanding rapidly.
+  <div class="col-8">
+    Vaccines are one of the most effective ways to reduce illness and death caused
+    by infectious diseases. We often associate vaccines with childhood, but new
+    vaccination strategies have the potential to protect adults from cancer and
+    chronic diseases. This is thanks to emerging technology that helps turn
+    recombinant viruses (formed by recombining genetic material) into antigens and
+    immunotherapeutics. An antigen is any substance that causes the immune system to
+    produce antibodies; immunotherapy treats disease by inducing an immune response.
+    Research in these areas is expanding rapidly.
 
-For these emerging technologies to have an impact, we need to be able to make
-them. For that, we need access to production and purification processes that
-meet the highest standards for manufacturing biologics, using cutting-edge
-biotechnologies on a scale large enough for clinical evaluation.
+    <br><br>
+
+    For these emerging technologies to have an impact, we need to be able to make
+    them. For that, we need access to production and purification processes that
+    meet the highest standards for manufacturing biologics, using cutting-edge
+    biotechnologies on a scale large enough for clinical evaluation.
   </div>
 </div>
