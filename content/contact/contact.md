@@ -21,7 +21,7 @@ email_form = 2
 {{< figure library="1" src="contact-collage.jpg" >}}
 
 Established in 2012, the [Department of
-Bioengineering](https://mcgill.ca/bioengineering/)is the newest department to
+Bioengineering](https://mcgill.ca/bioengineering/) is the newest department to
 join McGill University’s renowned [Faculty of
 Engineering](https://www.mcgill.ca/engineering/). McGill researchers from nearly
 all Faculty units, including seven Canada Research Chairs and many colleagues in
