@@ -43,6 +43,11 @@ interests = []
   icon_pack = "fab"
   link = "www.linkedin.com/in/CT-1b025737"
 +++
+### Current Institution
+Postdoctoral Fellow  
+CIUSSS de l'Est-de-l'Île-de-Montréal  
+Nov 2019  
+Montreal, QC, Canada
 
 ### Project
 Removing hurdles to Vesicular Stomatitis Virus vector production through design
