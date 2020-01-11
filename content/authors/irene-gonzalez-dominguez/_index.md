@@ -10,10 +10,10 @@ role = "Visiting Student"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.md for valid options.
-user_groups = ["Visiting Members"]
+user_groups = ["Alumni"]
 
 # Order within organizational group on page
-weight = 1
+weight = 2
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
