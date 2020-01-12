@@ -34,3 +34,10 @@ year = "2017-2019"
 
 # Social/Academic Networking
 +++
+
+### Project
+- Design experiments to optimize the downstream process of purifying influenza
+  virus to meet the specification of animal and clinical tests.
+- Write and improve the Standard Operation Procedure of purification and
+  quantification procedures.
+- Quantify various bio-components with various analytical tools and equipment.
