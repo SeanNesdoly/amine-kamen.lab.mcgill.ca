@@ -13,7 +13,7 @@ baseurl = "http://amine-kamen.lab.mcgill.ca"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Viral Vectors and Vaccines Bioprocessing Group"
+copyright = "&copy; 2020 Viral Vectors and Vaccines Bioprocessing Group"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-140333312-1"
