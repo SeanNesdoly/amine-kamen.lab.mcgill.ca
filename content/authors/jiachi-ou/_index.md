@@ -6,17 +6,20 @@ name = "Jiachi (Josh) Ou"
 authors = ["jiachi-ou"]
 
 # Lab position or title
-role = "Undergraduate Student (2018)"
+role = "Research Assistant"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
-user_groups = ["Alumni"]
+user_groups = ["Staff"]
 
 # Order within organizational group on page
-weight = 10
+weight = 5
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = [ { name = "McGill University", url = "https://www.mcgill.ca/" } ]
+
+# List country flags in the format ["flag1.png", ...]
+flags = ["china.png"]
 
 bio = ""
 
@@ -25,9 +28,18 @@ interests = []
 
 # Education
 [[education.courses]]
-  course = "BEng in Bioengineering"
-  institution = "McGill University (Montreal, Canada)"
+  course = "B.Eng. in Bioengineering"
+  institution = "McGill University (Montreal, QC, Canada)"
+  year = "2020"
 
 # Social/Academic Networking
-# none
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://linkedin.com/in/jiachiou"
 +++
+### Project
+Development of a Digital Twin for bioreactors to optimize AAV production.
+
+### Research Experience
+- Summer 2018: SURE Project in Prof. Amine Kamen's Lab
