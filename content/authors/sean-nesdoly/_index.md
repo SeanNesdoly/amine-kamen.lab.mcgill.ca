@@ -9,7 +9,7 @@ authors = ["sean-nesdoly"]
 role = "MEng Student"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
-# variable located at /content/people/people.org for valid options.
+# variable located at /content/people/people.md for valid options.
 user_groups = ["Master's Students"]
 
 # Order within organizational group on page

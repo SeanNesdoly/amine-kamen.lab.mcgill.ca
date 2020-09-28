@@ -10,10 +10,10 @@ role = "Staff (Research Assistant)"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
-user_groups = ["Staff"]
+user_groups = ["Alumni"]
 
 # Order within organizational group on page
-weight = 3
+weight = 1
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
