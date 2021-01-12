@@ -10,10 +10,10 @@ role = "Postdoctoral Fellow"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
-user_groups = ["Postdoctoral Fellows"]
+user_groups = ["Alumni"]
 
 # Order within organizational group on page
-weight = 1
+weight = 21
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
