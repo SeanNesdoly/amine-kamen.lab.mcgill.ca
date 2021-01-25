@@ -44,5 +44,5 @@ year = "2016-2020"
 - July 2019 - August 2019: The Biology Undergraduate Summer School (BUSS) at the
   University of Zurich (Switzerland)
 - August 2018 - September 2018: Volunteering in the laboratory of Dr. Paul Zimba
-  at Texas A&M University Corpus Christi (USA)"
+  at Texas A&M University Corpus Christi (USA)
 
