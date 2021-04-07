@@ -6,14 +6,14 @@ name = "Pranav Joshi"
 authors = ["pranav-joshi"]
 
 # Lab position or title
-role = "PhD Candidate"
+role = "PhD Alumni"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
-user_groups = ["PhD Candidates"]
+user_groups = ["Alumni"]
 
 # Order within organizational group on page
-weight = 1
+weight = 22
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
@@ -27,6 +27,11 @@ bio = ""
 interests = []
 
 # Education
+[[education.courses]]
+  course = "PhD in Biological & Biomedical Engineering"
+  institution = "McGill University (Montreal, Canada)"
+  year = "2021"
+
 [[education.courses]]
   course = "Master of Technology in Bioprocess Technology"
   institution = "Institute of Chemical Technology (Mumbai, India)"
