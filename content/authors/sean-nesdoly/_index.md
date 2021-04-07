@@ -39,6 +39,11 @@ year = "2014-2018"
 
 # Social/Academic Networking
 [[social]]
+  icon = "link"
+  icon_pack = "fas"
+  link = "https://seannesdoly.github.io/"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/SeanNesdoly"
@@ -53,9 +58,13 @@ year = "2014-2018"
 Bioinformatics of human-influenza genetic and functional interactions.
 
 ### Skills
-- Next-generation sequencing analysis
+- Analysis of high-throughput biological data
+  - DNA, CRISPR screen, single cell, RNA, methylation, and ChIP sequencing
+    experiments
+  - Quality control assessment; data processing/wrangling; sequence alignment;
+    feature counting & annotation
 - High-performance computing
-- Java, UNIX, C/C++, R, Python, MATLAB, Git, Jira, Vi/m
+- Java, UNIX, Julia, Python, R, C/C++, MATLAB, Git, Jira, Vi/m, LaTeX
 
 ### Work experience
 - 2017-2018: Research assistant at Queen's Computational Genomics Lab (Kingston,
