@@ -6,14 +6,14 @@ name = "Xingge Xu"
 authors = ["xingge-xu"]
 
 # Lab position or title
-role = "Staff (Research Assistant)"
+role = "PhD Candidate"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.org for valid options.
-user_groups = ["Staff"]
+user_groups = ["PhD Candidates"]
 
 # Order within organizational group on page
-weight = 4
+weight = 7
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
