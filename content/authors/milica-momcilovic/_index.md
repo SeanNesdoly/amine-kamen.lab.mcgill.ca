@@ -13,7 +13,7 @@ role = "MEng Student"
 user_groups = ["Master's Students"]
 
 # Order within organizational group on page
-weight = 4
+weight = 3
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []

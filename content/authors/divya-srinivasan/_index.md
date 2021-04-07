@@ -13,7 +13,7 @@ role = "MEng Student"
 user_groups = ["Master's Students"]
 
 # Order within organizational group on page
-weight = 5
+weight = 4
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
@@ -45,5 +45,5 @@ year = ""
 # Social/Academic Networking
 +++
 ### Work experience
-- 2011-2013: Process Engineer at Global Process Systems (Singapore) 
+- 2011-2013: Process Engineer at Global Process Systems (Singapore)
 - 2018-2020: Process Engineer at PM Group (US)

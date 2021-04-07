@@ -6,14 +6,14 @@ name = "Sean Nesdoly"
 authors = ["sean-nesdoly"]
 
 # Lab position or title
-role = "MEng Student"
+role = "Research Assistant <br> MEng Alumnus"
 
 # Organizational group(s) that the user belongs to. Refer to the 'user_groups'
 # variable located at /content/people/people.md for valid options.
-user_groups = ["Master's Students"]
+user_groups = ["Staff"]
 
 # Order within organizational group on page
-weight = 1
+weight = 5
 
 # List any organizations in the format [ {name="org1", url="url1"}, ... ]
 organizations = []
@@ -30,7 +30,7 @@ interests = []
 [[education.courses]]
 course = "MEng in Biological & Biomedical Engineering"
 institution = "McGill University (Montreal, QC, Canada)"
-year = "2018-"
+year = "2018-2021"
 
 [[education.courses]]
 course = "BComp in Biomedical Computing"
